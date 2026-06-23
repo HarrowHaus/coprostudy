@@ -105,3 +105,20 @@ All assertions pass. The track divergence is a documented, expected band (deaths
 All assertions pass. **Phase 4 (author deliverables) is UNLOCKED.**
 
 ---
+
+## 2026-06-23T14:25:00Z — GATE 4 (Author deliverables)
+
+**Phase 4 objective:** turn the numbers into the two persuasion documents — no invented figures.
+**Artifacts:** `deliverables/actuarial-one-pager.md`, `deliverables/approved-device-packet.md`.
+
+| # | Assertion | Result | Evidence |
+|---|---|---|---|
+| 4.1 | No `{{placeholder}}` remains that could have been filled from study outputs; empties listed under INPUTS STILL NEEDED | **PASS** | 8 placeholders remain; all are `[EXTERNAL]` loss-costs/listings/warranty/reliability or `[DERIVED]`-from-external; every one is listed under an `INPUTS STILL NEEDED` block. All study-derived placeholders (addressable harm, fractions, per-device-year by occupancy) are filled. |
+| 4.2 | Every quantitative claim traces to a specific table/cell | **PASS** | 28.6 deaths & 1,273 injuries → Table 1; 38%/21–61% & 59%/50–94% → Table 2; per-100k-device-year occupancy figures → Table 4. No figure appears that isn't in the study output. |
+| 4.3 | Both deliverables include limitations/honesty section | **PASS** | Each has an explicit limitations section carried from `FINDINGS.md` (counterfactual-not-observed, manufacturer-affiliated, deaths≠injuries, single-family concentration, supplemental-not-replacement). |
+| 4.4 | Tone check — no overstatement | **PASS** | No bare "will prevent"/"guarantee"/"eliminate". Claims framed as "would plausibly have prevented … under stated assumptions." Scan clean. |
+
+### GATE 4: PASS
+All assertions pass. **All study gates (0–4) logged PASS. Study complete.**
+
+---
