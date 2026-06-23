@@ -1,0 +1,11 @@
+# Large raw NEISS annual files (~60MB each, ~300MB total) are NOT committed.
+# They are re-fetchable exactly (see data/raw/neiss/README.md and SOURCE_STATUS.md),
+# and every number derived from them is reproducible via scripts/phase2_build_corpus.py.
+# The CO-filtered corpus (data/processed/case_corpus.csv) IS committed and carries the
+# verbatim narratives used for classification.
+data/raw/neiss/*.tsv
+
+# Python noise
+__pycache__/
+*.pyc
+.DS_Store

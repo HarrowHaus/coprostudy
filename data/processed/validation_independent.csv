@@ -1,0 +1,254 @@
+case_id,source_primary,preventability_verdict
+NEISS-2019-190124129,other,Excluded
+NEISS-2019-190208657,unknown,Unknown-Source
+NEISS-2019-190213402,range_oven,Out of Scope
+NEISS-2019-190215204,unknown,Unknown-Source
+NEISS-2019-190215208,unknown,Unknown-Source
+NEISS-2019-190219198,unknown,Unknown-Source
+NEISS-2019-190225541,unknown,Unknown-Source
+NEISS-2019-190226585,unknown,Unknown-Source
+NEISS-2019-190229585,other,Out of Scope
+NEISS-2019-190236099,unknown,Unknown-Source
+NEISS-2019-190236967,tank_water_heater,Not Prevented
+NEISS-2019-190247694,unknown,Unknown-Source
+NEISS-2019-190301849,other,Excluded
+NEISS-2019-190311927,other,Excluded
+NEISS-2019-190348653,other,Out of Scope
+NEISS-2019-190427707,generator,Out of Scope
+NEISS-2019-190431609,other,Excluded
+NEISS-2019-190437041,other,Out of Scope
+NEISS-2019-190445919,furnace,Prevented
+NEISS-2019-190453230,range_oven,Excluded
+NEISS-2019-190455270,unknown,Unknown-Source
+NEISS-2019-190461041,unknown,Unknown-Source
+NEISS-2019-190513471,generator,Out of Scope
+NEISS-2019-190525660,furnace,Prevented
+NEISS-2019-190542994,other,Excluded
+NEISS-2019-190547732,unknown,Unknown-Source
+NEISS-2019-190616691,generator,Out of Scope
+NEISS-2019-190616693,generator,Out of Scope
+NEISS-2019-190618322,other,Excluded
+NEISS-2019-190618763,generator,Out of Scope
+NEISS-2019-190646634,unknown,Unknown-Source
+NEISS-2019-190655719,other,Excluded
+NEISS-2019-190656867,unknown,Unknown-Source
+NEISS-2019-190706095,generator,Out of Scope
+NEISS-2019-190725683,range_oven,Out of Scope
+NEISS-2019-190728842,unknown,Unknown-Source
+NEISS-2019-190733406,unknown,Unknown-Source
+NEISS-2019-190812707,other,Excluded
+NEISS-2019-190816439,other,Excluded
+NEISS-2019-190852020,range_oven,Out of Scope
+NEISS-2019-190866808,range_oven,Excluded
+NEISS-2019-190905015,other,Excluded
+NEISS-2019-190910865,other,Out of Scope
+NEISS-2019-190940554,unknown,Unknown-Source
+NEISS-2019-190948384,other,Out of Scope
+NEISS-2019-191026854,other,Excluded
+NEISS-2019-191030416,furnace,Prevented
+NEISS-2019-191103713,other,Out of Scope
+NEISS-2019-191123028,range_oven,Excluded
+NEISS-2019-191152565,unknown,Unknown-Source
+NEISS-2019-191154715,other,Out of Scope
+NEISS-2019-191201274,boiler_tankless,Out of Scope
+NEISS-2019-191205577,other,Excluded
+NEISS-2019-191206136,other,Excluded
+NEISS-2019-191223606,unknown,Unknown-Source
+NEISS-2019-191226036,boiler_tankless,Out of Scope
+NEISS-2019-191244662,unknown,Unknown-Source
+NEISS-2019-191258468,unknown,Unknown-Source
+NEISS-2019-200210037,unknown,Unknown-Source
+NEISS-2020-200128466,unknown,Unknown-Source
+NEISS-2020-200144339,unknown,Unknown-Source
+NEISS-2020-200161357,furnace,Not Prevented
+NEISS-2020-200202258,range_oven,Out of Scope
+NEISS-2020-200219990,vehicle,Out of Scope
+NEISS-2020-200223248,unknown,Unknown-Source
+NEISS-2020-200254201,other,Excluded
+NEISS-2020-200302701,unknown,Unknown-Source
+NEISS-2020-200322346,range_oven,Excluded
+NEISS-2020-200324995,other,Excluded
+NEISS-2020-200357762,other,Excluded
+NEISS-2020-200500070,furnace,Prevented
+NEISS-2020-200525950,unknown,Unknown-Source
+NEISS-2020-200530248,other,Excluded
+NEISS-2020-200600394,range_oven,Excluded
+NEISS-2020-200714950,other,Excluded
+NEISS-2020-200734067,other,Out of Scope
+NEISS-2020-200754636,generator,Out of Scope
+NEISS-2020-200805371,unknown,Unknown-Source
+NEISS-2020-200806501,unknown,Unknown-Source
+NEISS-2020-200822930,generator,Out of Scope
+NEISS-2020-200823749,generator,Out of Scope
+NEISS-2020-200844727,unknown,Unknown-Source
+NEISS-2020-200912321,range_oven,Excluded
+NEISS-2020-200946481,unknown,Unknown-Source
+NEISS-2020-200946489,unknown,Unknown-Source
+NEISS-2020-201024444,furnace,Prevented
+NEISS-2020-201035172,other,Excluded
+NEISS-2020-201037940,range_oven,Excluded
+NEISS-2020-201047192,other,Out of Scope
+NEISS-2020-201107758,unknown,Unknown-Source
+NEISS-2020-201109452,tank_water_heater,Not Prevented
+NEISS-2020-201109455,furnace,Prevented
+NEISS-2020-201112330,other,Excluded
+NEISS-2020-201137376,other,Out of Scope
+NEISS-2020-201138914,furnace,Prevented
+NEISS-2020-201140447,other,Out of Scope
+NEISS-2020-201148051,other,Excluded
+NEISS-2020-201201006,boiler_tankless,Out of Scope
+NEISS-2020-201212530,other,Excluded
+NEISS-2020-201213925,range_oven,Out of Scope
+NEISS-2020-201225757,unknown,Unknown-Source
+NEISS-2020-201234436,furnace,Prevented
+NEISS-2020-201238868,range_oven,Out of Scope
+NEISS-2020-201242263,other,Excluded
+NEISS-2020-201243427,other,Out of Scope
+NEISS-2020-210143812,unknown,Unknown-Source
+NEISS-2021-210105223,other,Excluded
+NEISS-2021-210109751,other,Excluded
+NEISS-2021-210120770,furnace,Prevented
+NEISS-2021-210132547,generator,Out of Scope
+NEISS-2021-210132548,generator,Out of Scope
+NEISS-2021-210134040,range_oven,Excluded
+NEISS-2021-210138308,other,Excluded
+NEISS-2021-210140557,tank_water_heater,Not Prevented
+NEISS-2021-210148036,range_oven,Excluded
+NEISS-2021-210213949,other,Out of Scope
+NEISS-2021-210219606,other,Out of Scope
+NEISS-2021-210221068,other,Out of Scope
+NEISS-2021-210239553,other,Out of Scope
+NEISS-2021-210245507,furnace,Prevented
+NEISS-2021-210245910,generator,Out of Scope
+NEISS-2021-210245925,range_oven,Out of Scope
+NEISS-2021-210247695,other,Out of Scope
+NEISS-2021-210248287,other,Excluded
+NEISS-2021-210340622,other,Excluded
+NEISS-2021-210348165,other,Excluded
+NEISS-2021-210424851,other,Excluded
+NEISS-2021-210429269,grill,Out of Scope
+NEISS-2021-210433630,generator,Out of Scope
+NEISS-2021-210433635,other,Out of Scope
+NEISS-2021-210453900,grill,Out of Scope
+NEISS-2021-210456216,other,Excluded
+NEISS-2021-210457611,range_oven,Out of Scope
+NEISS-2021-210725567,tank_water_heater,Not Prevented
+NEISS-2021-210760196,other,Excluded
+NEISS-2021-210764540,range_oven,Excluded
+NEISS-2021-210820689,unknown,Unknown-Source
+NEISS-2021-210863077,generator,Out of Scope
+NEISS-2021-210867584,other,Excluded
+NEISS-2021-210925331,range_oven,Out of Scope
+NEISS-2021-210939427,other,Excluded
+NEISS-2021-210956232,other,Excluded
+NEISS-2021-210966284,other,Excluded
+NEISS-2021-210967606,unknown,Unknown-Source
+NEISS-2021-211007731,other,Excluded
+NEISS-2021-211111538,unknown,Unknown-Source
+NEISS-2021-211112468,generator,Out of Scope
+NEISS-2021-211202924,other,Excluded
+NEISS-2021-211221402,unknown,Unknown-Source
+NEISS-2021-211244256,other,Excluded
+NEISS-2021-211250941,range_oven,Out of Scope
+NEISS-2021-211260332,other,Out of Scope
+NEISS-2021-211260333,other,Out of Scope
+NEISS-2021-220104494,generator,Out of Scope
+NEISS-2022-220120687,other,Excluded
+NEISS-2022-220123610,other,Excluded
+NEISS-2022-220128909,other,Excluded
+NEISS-2022-220128910,other,Excluded
+NEISS-2022-220138559,unknown,Unknown-Source
+NEISS-2022-220151333,range_oven,Out of Scope
+NEISS-2022-220162358,other,Excluded
+NEISS-2022-220211594,other,Excluded
+NEISS-2022-220225855,other,Excluded
+NEISS-2022-220225896,other,Excluded
+NEISS-2022-220245818,other,Excluded
+NEISS-2022-220253184,unknown,Unknown-Source
+NEISS-2022-220255250,other,Excluded
+NEISS-2022-220317445,other,Excluded
+NEISS-2022-220331501,other,Excluded
+NEISS-2022-220337325,other,Out of Scope
+NEISS-2022-220353540,range_oven,Out of Scope
+NEISS-2022-220354479,other,Excluded
+NEISS-2022-220369676,other,Excluded
+NEISS-2022-220403390,other,Excluded
+NEISS-2022-220403809,unknown,Unknown-Source
+NEISS-2022-220462728,range_oven,Out of Scope
+NEISS-2022-220533567,unknown,Unknown-Source
+NEISS-2022-220544765,other,Excluded
+NEISS-2022-220557147,other,Excluded
+NEISS-2022-220572820,unknown,Unknown-Source
+NEISS-2022-220627957,other,Excluded
+NEISS-2022-220631001,other,Excluded
+NEISS-2022-220722797,unknown,Unknown-Source
+NEISS-2022-220807420,unknown,Unknown-Source
+NEISS-2022-220815196,unknown,Unknown-Source
+NEISS-2022-220867502,unknown,Unknown-Source
+NEISS-2022-220910507,range_oven,Out of Scope
+NEISS-2022-220944653,other,Excluded
+NEISS-2022-220959754,other,Excluded
+NEISS-2022-220965768,range_oven,Out of Scope
+NEISS-2022-221014041,other,Excluded
+NEISS-2022-221031240,range_oven,Out of Scope
+NEISS-2022-221038517,other,Excluded
+NEISS-2022-221056787,other,Excluded
+NEISS-2022-221065221,generator,Out of Scope
+NEISS-2022-221101277,other,Excluded
+NEISS-2022-221101840,other,Excluded
+NEISS-2022-221110731,unknown,Unknown-Source
+NEISS-2022-221128252,unknown,Unknown-Source
+NEISS-2022-221156534,unknown,Unknown-Source
+NEISS-2022-221207923,other,Excluded
+NEISS-2022-221214798,unknown,Unknown-Source
+NEISS-2022-221249102,range_oven,Out of Scope
+NEISS-2022-221252764,tank_water_heater,Not Prevented
+NEISS-2022-221254494,other,Excluded
+NEISS-2022-230101684,other,Excluded
+NEISS-2022-230102150,other,Excluded
+NEISS-2022-230112966,other,Excluded
+NEISS-2022-230120297,range_oven,Out of Scope
+NEISS-2022-230138415,tank_water_heater,Not Prevented
+NEISS-2022-230235553,unknown,Unknown-Source
+NEISS-2023-230127777,unknown,Unknown-Source
+NEISS-2023-230145553,other,Excluded
+NEISS-2023-230166501,unknown,Unknown-Source
+NEISS-2023-230205023,range_oven,Out of Scope
+NEISS-2023-230211925,vehicle,Out of Scope
+NEISS-2023-230213462,range_oven,Out of Scope
+NEISS-2023-230213463,range_oven,Out of Scope
+NEISS-2023-230248344,unknown,Unknown-Source
+NEISS-2023-230252302,unknown,Unknown-Source
+NEISS-2023-230332103,range_oven,Out of Scope
+NEISS-2023-230347401,range_oven,Out of Scope
+NEISS-2023-230356432,other,Excluded
+NEISS-2023-230367990,unknown,Unknown-Source
+NEISS-2023-230405939,other,Out of Scope
+NEISS-2023-230413699,unknown,Unknown-Source
+NEISS-2023-230414001,unknown,Unknown-Source
+NEISS-2023-230426832,unknown,Unknown-Source
+NEISS-2023-230433704,other,Excluded
+NEISS-2023-230445628,other,Excluded
+NEISS-2023-230521348,unknown,Unknown-Source
+NEISS-2023-230578542,furnace,Prevented
+NEISS-2023-230609819,vehicle,Excluded
+NEISS-2023-230621163,other,Excluded
+NEISS-2023-230772622,range_oven,Excluded
+NEISS-2023-230802169,other,Excluded
+NEISS-2023-230820307,range_oven,Out of Scope
+NEISS-2023-230860022,both,Prevented
+NEISS-2023-230930158,range_oven,Out of Scope
+NEISS-2023-230966605,other,Excluded
+NEISS-2023-231024923,other,Excluded
+NEISS-2023-231061640,unknown,Unknown-Source
+NEISS-2023-231131583,unknown,Unknown-Source
+NEISS-2023-231158146,unknown,Unknown-Source
+NEISS-2023-231167832,other,Excluded
+NEISS-2023-231177540,furnace,Prevented
+NEISS-2023-231206255,unknown,Unknown-Source
+NEISS-2023-231206813,other,Out of Scope
+NEISS-2023-231210017,unknown,Unknown-Source
+NEISS-2023-231245004,other,Out of Scope
+NEISS-2023-231259740,unknown,Unknown-Source
+NEISS-2023-231259741,unknown,Unknown-Source
+NEISS-2023-240119099,generator,Out of Scope
