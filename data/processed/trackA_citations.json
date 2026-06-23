@@ -1,0 +1,7 @@
+{
+  "cpsc_deaths": "U.S. CPSC, 'Non-Fire Carbon Monoxide Deaths Associated with the Use of Consumer Products: 2022 Annual Estimates' (pub. May 2026), Table 1 (pp.11-12) and Table 2 (p.13-16). data/raw/cpsc_reports/cpsc_co_2022.pdf.",
+  "recs_furnace": "U.S. EIA, Residential Energy Consumption Survey (RECS) 2020, Table HC6.1 'Space heating in U.S. homes'. Fossil central warm-air furnaces ~60.39M homes; fossil steam/hot-water boilers ~8.13M. data/raw/eia_recs/RECS2020_HC6.1_space_heating.pdf.",
+  "cdc_burden": "U.S. CDC/NVSS & MMWR: ~430 unintentional non-fire CO deaths/yr (1999-2010 avg) and ~15,000 unintentional non-fire CO ED visits/yr. Used for magnitude context only (CDC counts ALL sources incl. motor-vehicle exhaust; CPSC counts consumer products only).",
+  "device_fail": "Device non-actuation discount 15/10/5% (Low/Base/High) pre-registered as a conservative assumption; basis = CO/smoke-alarm field-reliability literature (analog). Kept even absent an exact furnace-shutoff figure (removing it would favor the device).",
+  "cpsc_generator_precedent": "U.S. CPSC portable-generator rulemaking counterfactual: source-shutoff (auto-CO-shutoff generators) estimated to avert nearly all of ~511 real generator fatalities -- the closest measured precedent that a SOURCE-shutoff can be highly effective; used to bound the High ceiling, not the Base."
+}
