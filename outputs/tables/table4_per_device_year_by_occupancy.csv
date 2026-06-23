@@ -1,0 +1,7 @@
+Occupancy,Scenario,Device-homes (millions),"Deaths averted /1,000 dev-yr","Injuries averted /1,000 dev-yr","Deaths averted /100,000 dev-yr","Injuries averted /100,000 dev-yr"
+Single-family,Low,52.6,0.00011,0.0114,0.0109,1.144
+Single-family,Base,52.6,0.00020,0.0136,0.0196,1.359
+Single-family,High,52.6,0.00031,0.0216,0.0313,2.158
+Multifamily/commercial,Low,7.7,0.00004,0.0038,0.0036,0.383
+Multifamily/commercial,Base,7.7,0.00007,0.0045,0.0065,0.454
+Multifamily/commercial,High,7.7,0.00010,0.0072,0.0105,0.722

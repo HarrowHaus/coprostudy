@@ -85,3 +85,23 @@ All assertions pass (1.2 deferred per methodology, with documented context). **P
 All assertions pass. The track divergence is a documented, expected band (deaths vs injuries), not a sharp contradiction. **Proceeding to Phase 3 (sensitivity & output tables).**
 
 ---
+
+## 2026-06-23T14:15:00Z — GATE 3 (Sensitivity & output tables)
+
+**Phase 3 objective:** the final numbers, with uncertainty, segmented where it matters.
+**Artifacts:** `scripts/phase3_tables.py`; `outputs/tables/table1..table4` (.md + .csv); `outputs/tables/FINDINGS.md`; `data/raw/eia_recs/RECS2020_HC8.1.pdf`, `HC9.1.pdf`.
+
+| # | Assertion | Result | Evidence |
+|---|---|---|---|
+| 3.1 | All four tables exist in both formats; no blank cell without "n/a — reason" | **PASS** | table1-4 present as .md and .csv; programmatic scan found 0 blank cells. |
+| 3.2 | Scenario ordering holds in every table (Low ≤ Base ≤ High) | **PASS** | Verified: deaths 6.0≤10.8≤17.3, injuries 632≤750≤1,192; fractions and all Table-4 rows monotone. |
+| 3.3 | Traceability: every figure reproducible from a script (spot-check 3) | **PASS** | 3 random figures recomputed independently and matched exactly: T3 Base deaths 10.8; T4 SF Base injuries/100k 1.359; T2 High injuries 93.6%. All numbers flow from committed CSV inputs + scripts; no hand-entered values. |
+| 3.4 | Table 4 segmented by occupancy type | **PASS** | Single-family vs Multifamily/commercial, device base from RECS HC6.1; harm split from NEISS dwelling type. |
+| 3.5 | Honesty checklist fully satisfied | **PASS** | Generators/EDT (~110/yr) & all out-of-scope sources carved out; unknown-source & uncertain/indeterminate scored against device in Base; device non-actuation discount (10% Base) applied; no chronic-morbidity credit in Base; 5-yr multi-year averaging throughout; boiler carve-out applied; every external figure cited. |
+
+**Notable finding logged:** Table-4 segmentation shows in-scope (furnace/tank-WH) CO harm is **single-family-dominant** (~95% of identifiable-dwelling injury cases); multifamily/commercial CO risk is dominated by out-of-scope central boilers. This runs counter to the "commercial-first" actuarial default and is surfaced honestly in `FINDINGS.md` (not massaged). Occupancy split is thin (~45% unknown dwelling) — direction robust, exact ratio uncertain.
+
+### GATE 3: PASS
+All assertions pass. **Phase 4 (author deliverables) is UNLOCKED.**
+
+---
